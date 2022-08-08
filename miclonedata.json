@@ -2,104 +2,189 @@
   
   "array": [
     {
-      "name": "gtet5",
-      "status": true,
-      "id": 1
-    },
-    {
-      "name": "3r4 rt",
-      "status": true,
-      "id": 2
-    },
-    {
-      "name": "43 5t5",
-      "status": false,
-      "id": 3
-    },
-    {
-      "name": "r4 t5",
-      "status": false,
-      "id": 4
-    },
-    {
-      "name": "r4 t5",
-      "status": false,
-      "id": 5
-    },
-    {
-      "name": "hello",
-      "status": false,
-      "id": 7
-    },
-    {
-      "name": "rth y 65u67uj67",
-      "status": false,
-      "id": 8
-    },
-    {
-      "name": "wier7g 734",
-      "status": false,
-      "id": 9
-    },
-    {
-      "name": "56u7 ",
-      "status": false,
-      "id": 10
-    },
-    {
-      "name": "rthy ",
-      "status": false,
-      "id": 11
-    },
-    {
-      "names": "rewwwwwwwwwrg",
-      "status": false,
-      "id": 12
-    },
-    {
-      "names": "rfeter",
-      "status": false,
-      "id": 13
-    },
-    {
-      "names": "sdfergfr",
-      "status": false,
-      "id": 14
-    },
-    {
-      "name": "sdfergfr",
-      "status": false,
-      "id": 15
-    },
-    {
-      "name": "wefwe",
-      "status": false,
-      "id": 16
-    },
-    {
-      "name": "wrfrewgre3",
-      "status": false,
-      "id": 17
-    },
-    {
-      "name": "wef",
-      "status": false,
-      "id": 18
-    },
-    {
-      "name": "wer",
-      "status": false,
-      "id": 19
-    },
-    {
-      "name": "ertget",
-      "status": false,
-      "id": 20
-    },
-    {
-      "name": "e5y4y",
-      "status": false,
-      "id": 21
-    }
+            "id":1,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1599298110.02127922.png?width=200&height=200",
+            "name":"Mi TV 4A 108cm (43) Horizon Edition Grey",
+            "price":"₹24,999 ₹29,999",
+            "discount":"17% OFF",
+            "detail":"A dynamic piece of design that takes you across the horizon with each scene. More immersive than ever, more elegant than ever. The horizon display dominates the surroundings and uplifts the atmosphere with impeccable detail and wider viewing angle.",
+​
+        },
+        {
+            "id":2,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1644409362.30458069.jpg?width=200&height=200",
+            "name":"Redmi Smart TV X50 125.7 cm (50 inches) Black",
+            "price":"₹32,999 ₹44,999",
+            "discount":"27% OFF",
+            "detail":"The XL Visual Experience 4K HDR"
+        },
+        {
+            "id":3,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1649663877.8255424.png?width=200&height=200",
+            "name":"Redmi Smart TV 43 Full HD Black",
+            "price":"₹22,999 ₹34,999",
+            "discount":"34% OFF",
+            "detail":"Full HD Smart TV Redmi Smart TV 43 (108 cm) All-Round Smart Entertainment"
+        },
+        {
+            "id":4,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1587896173.03128019.png?width=200&height=200",
+            "name":"Mi TV 4X 108 cm (43) Black",
+            "price":"₹26,499₹34,999",
+            "discount":"24% OFF",
+            "detail":"Mi TV 4X 43 | Mi TV 4X 50 | Mi TV 4X 55"
+        },
+        {
+            "id":5,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650993107.7886868.jpg?width=200&height=200",
+            "name":"Xiaomi Smart TV 5A 100 cm (40 inch) Full HD LED Android TV (2022 Model) Black",
+            "price":"₹21,999 ₹29,999",
+            "discount":"27% OFF",
+            "detail":"Xiaomi Smart Tv 5a SeriesYour Complete Entertainment Experience"
+        },
+        {
+            "id":6,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1629896817.38484932.jpg?width=200&height=200",
+            "name":"Mi TV 5X 50 Metallic Grey",
+            "price":"₹38,999 ₹59,999",
+            "discount":"35% OFF",
+            "detail":"Mi TV 5X"
+        },
+        {
+            "id":7,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1649663889.63337333.png?width=200&height=200",
+            "name":"Redmi Smart TV 32 HD Ready Black",
+            "price":"₹12,999 ₹24,999",
+            "discount":"48% OFF",
+            "detail":"HD-Ready Smart TV Redmi Smart TV 32 (80 cm) All-round Smart Entertainment"
+        },
+        {
+            "id":8,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1629897462.00831448.jpg?width=200&height=200",
+            "name":"Mi TV 5X 55 Metallic Grey",
+            "price":"₹44,999 ₹69,999",
+            "discount":"36% OFF",
+            "detail":"Premium Metal Bezel-less Design"
+        },
+        {
+            "id":9,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1622467015.57671049.jpg?width=200&height=200",
+            "name":"Mi TV 4A 40 Horizon Black",
+            "price":"₹20,999 ₹29,999",
+            "discount":"30% OFF",
+            "detail":"A dynamic piece of design that takes you across the horizon with each scene. More immersive than ever, more elegant than ever. The horizon display dominates the surroundings and uplifts the atmosphere with impeccable detail and wider viewing angle."
+        },
+        {
+            "id":10,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650992919.42213385.jpg?width=200&height=200",
+            "name":"Xiaomi Smart TV 5A 108 cm (43 inch) Full HD LED Android TV (2022 Model) Black",
+            "price":"₹24,999 ₹35,999",
+            "discount":"31% OFF",
+            "detail":"Xiaomi Smart Tv 5a SeriesYour Complete Entertainment Experience"
+        },
+        {
+            "id":11,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650976094.42847806.jpg?width=200&height=200",
+            "name":"Xiaomi OLED Vision TV 55 Black",
+            "price":"₹89,999 ₹1,99,999",
+            "discount":"55% OFF",
+            "detail":"Xiaomi Oled Vision TvOLED Vision TV [55] Perfection in Vision"
+        },
+        {
+            "id":12,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1642760767.3293196.png?width=200&height=200",
+            "name":"Mi TV 4A 80cm (32) Horizon Edition Grey",
+            "price":"₹14,999 ₹19,999",
+            "discount":"25% OFF",
+            "detail":"Mi TV 4A 80cm (32) Horizon Edition Immersive. Work of Art."
+        },
+        {
+            "id":13,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1608102100.09624560.jpg?width=200&height=200",
+            "name":"Mi TV QLED 4k 138.8 cm (55)",
+            "price":"₹53,999 ₹59,999",
+            "discount":"10% OFF",
+            "detail":"Mi QLED TV 4K 55 | Mi QLED TV 75"
+        },
+        {
+            "id":14,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650992919.42213385.jpg?width=200&height=200",
+            "name":"Xiaomi Smart TV 5A 108 cm (43 inch) Full HD LED Android TV (2022 Model) Black",
+            "price":"₹24,999 ₹35,999",
+            "discount":"31% OFF",
+            "detail":"Xiaomi Smart Tv 5a SeriesYour Complete Entertainment Experience"
+        },
+        {
+            "id":15,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639641976.8828285.png?width=200&height=200",
+            "name":"Mi TV 4X 125.7 cm (50) Black",
+            "price":"₹29,999 ₹41,999",
+            "discount":"29% OFF",
+            "detail":"Mi TV 4X 50 | Mi TV 4X 43 | Mi TV 4X 55"
+        },
+        {
+            "id":16,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1642760693.87654223.png?width=200&height=200",
+            "name":"Mi TV 4A 80cm (32) Horizon Edition Grey",
+            "price":"₹14,999₹19,999",
+            "discount":"25% OFF",
+            "detail":"Mi TV 4A 80cm (32) Horizon Edition Immersive. Work of Art."
+        },
+        {
+            "id":17,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1619083875.38575900.png?width=200&height=200",
+            "name":"Mi QLED TV 75 Grey",
+            "price":"₹1,29,999 ₹1,99,999",
+            "discount":"35% OFF",
+            "detail":"Mi QLED TV 75"
+        },
+        {
+            "id":18,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646032103.43951518.jpg?width=200&height=200",
+            "name":"Redmi Smart TV X43 108 cm (43 inches) Black",
+            "price":"₹25,999 ₹42,999",
+            "discount":"40% OFF",
+            "detail":"Redmi Smart TV X Series"
+        },
+        {
+            "id":19,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1644409341.0441812.jpg?width=200&height=200",
+            "name":"Redmi Smart TV X65 163.9 cm (65 inches) Black",
+            "price":"₹57,999 ₹74,999",
+            "discount":"23% OFF",
+            "detail":"Redmi Smart TV X Series"
+        },
+        {
+            "id":20,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639642350.43484582.jpg?width=200&height=200",
+            "name":"Mi LED TV 4A Pro 80cm (32) Black",
+            "price":"₹14,999 ₹19,999",
+            "discount":"25% OFF",
+            "detail":"Mi LED TV 4A PRO 32"
+        },
+        {
+            "id":21,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1538031719.90276454.png?width=200&height=200",
+            "name":"Mi LED TV 4A PRO 123.2 cm (49)",
+            "price":"₹26,499 ₹32,999",
+            "discount":"20% OFF",
+            "detail":"Mi LED TV 4A PRO 32"
+        },
+        {
+            "id":22,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1628056176.973904.jpg?width=200&height=200",
+            "name":"Mi LED TV 4C 80cm (32) Black",
+            "price":"₹14,999 ₹19,999",
+            "discount":"25% OFF",
+            "detail":"HD Ready Smart TV Mi LED Smart TV 4C 80 cm (32)"
+        },
+        {
+            "id":23,
+            "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650993107.7886868.jpg?width=200&height=200",
+            "name":"Xiaomi Smart TV 5A 100 cm (40 inch) Full HD LED Android TV (2022 Model) Black",
+            "price":"₹21,999₹29,999",
+            "discount":"27% OFF",
+            "detail":"Xiaomi Smart Tv 5a SeriesYour Complete Entertainment Experience"
+        }
   ]
 }
